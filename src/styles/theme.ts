@@ -1,0 +1,51 @@
+export default {
+  COLORS: {
+    BACKGROUND: '#F7F7F7',
+
+    PRIMARY_900: '#B83341',
+    PRIMARY_800: '#E03F50',
+    PRIMARY_100: '#D16470',
+    PRIMARY_50: '#FFABB3',
+
+    SECONDARY_900: '#572D31',
+    SECONDARY_500: '#7A6769',
+    SECONDARY_400: '#93797B',
+
+    SUCCESS_900: '#528F33',
+    SUCCESS_50: '#F7FFF9',
+
+    ALERT_900: '#B27F00',
+    ALERT_800: '#C5941A',
+    ALERT_50: '#F3EFE5',
+
+    SHAPE: '#DCDCDC',
+    TITLE: '#FFFFFF',
+
+    WHITE: '#FFFFFF',
+    BLACK: '#000000',
+
+    ORANGE: '#D04D0F',
+    GREEN: '#38A169',
+    RED: '#E53E3E',
+
+    GRAY50: '#F7FAFC',
+    GRAY100: '#EDF2F7',
+    GRAY200: '#E2E8F0',
+    GRAY300: '#CBD5E0',
+    GRAY400: '#A0AEC0',
+    GRAY500: '#718096',
+    GRAY600: '#4A5568',
+    GRAY700: '#2D3748',
+    GRAY800: '#1A202C',
+    GRAY900: '#171923',
+    GRAY950: '#121218',
+
+    // GRADIENT: ['#171923', '#4A5568'],
+    GRADIENT: ['#B83341', '#E03F50'],
+  },
+
+  FONTS: {
+    TITLE: 'DMSerifDisplay_400Regular',
+    TEXT: 'DMSans_400Regular',
+  },
+}

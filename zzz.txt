@@ -1,0 +1,4 @@
+yarn add -D @babel/preset-env react-native-svg-transformer prettier eslint-plugin-react-hooks eslint-plugin-react eslint-plugin-radar eslint-plugin-prettier eslint-plugin-jsx-a11y eslint-plugin-import-helpers eslint-plugin-import eslint-plugin-10x eslint-import-resolver-typescript eslint-config-prettier eslint-config-airbnb eslint@7.32.0 @typescript-eslint/parser @typescript-eslint/eslint-plugin @types/styled-components-react-native @react-native-community/eslint-config
+
+
+yarn add styled-components react-native-svg react-native-screens react-native-safe-area-context react-native-redash react-native-reanimated react-native-iphone-x-helper react-native-gesture-handler react-is@17.0.1 intl expo-updates expo-image-picker expo-font expo-app-loading date-fns @react-navigation/native @react-navigation/bottom-tabs @react-native-firebase/storage @react-native-firebase/firestore @react-native-firebase/auth @react-native-firebase/app @expo/vector-icons

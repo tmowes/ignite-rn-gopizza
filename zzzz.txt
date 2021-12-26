@@ -1,0 +1,52 @@
+Margherita
+molho de tomate, mussarela de búfala, manjericão e parmesão ralado.
+
+Bacon
+bacon em tiras e mussarela.
+
+Portuguesa
+chouriço ou calabresa, tomates, mussarela, cebolas e azeitonas pretas.
+
+Calabresa
+molho de tomate, mussarela, calabresa, cebola e parmesão.
+
+Frango
+frango desfiado, molho de tomate, mussarela, milho verde, pimentão, azeitonas e orégano.
+
+Napolitana
+anchovas, azeitonas pretas, alcaparras e mussarela.
+
+4 queijos
+mussarela, gorgonzola, requeijão e parmesão.
+
+Atum
+atum, mussarela, tomate e orégano.
+
+Mussarela
+mussarela, parmesão, bacon, tomate e orégano.
+
+Rúcula
+rúcula, tomate seco, molho de tomate.
+
+Lombo
+lombo, molho de tomate, mussarela, azeitonas verdes e orégano.
+
+## especiais
+
+Tropical
+mussarela, camarão, bacon e abacaxi.
+
+Frango com linguiça
+frango desfiado, linguiça, pimentão vermelho, queijo ralado, orégano e pimenta.
+
+Filé com 4 queijos
+filé em tiras, pecorino, petit cantal, provolone e grana padano.
+
+Brie, presunto e rúcula
+molho de tomate, mussarela, brie, presunto e rúcula picados.
+
+Bacon com pepperoni
+bacon, pepperoni, pimentão verde, cebola, champignon, bacon, molho de tomate e mussarela.
+
+Mexicana
+doritos, pimentão vermelho, carne moída, mussarela e temperos.
